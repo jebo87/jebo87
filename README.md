@@ -1,10 +1,8 @@
 ### Hi there 👋
 I'm a Fullstack dev based in Montreal looking for new challenges
-
-Interested in:
 - ReactJS
 - Go
-- Microservices
+- Microservices (in Go 🙂)
 - Kubernetes
 - Docker
 
