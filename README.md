@@ -1,5 +1,13 @@
 ### Hi there 👋
 I'm a Fullstack dev based in Montreal looking for new challenges
+
+Interested in:
+- ReactJS
+- Go
+- Microservices
+- Kubernetes
+- Docker
+
 <!--
 **jebo87/jebo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
