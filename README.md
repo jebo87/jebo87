@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Fullstack dev based in Montreal looking for new challenges
+I'm a Full-Stack dev based in Montreal looking for new challenges
 - ReactJS
 - Go
 - Microservices (in Go 🙂)
