@@ -2,7 +2,7 @@
 I'm a Full-Stack dev based in Montreal looking for new challenges
 - ReactJS
 - Go
-- Microservices (in Go 🙂)
+- Microservices (in Go 🙂 )
 - Kubernetes
 - Docker
 
