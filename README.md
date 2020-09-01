@@ -1,10 +1,12 @@
 ### Hi there 👋
 I'm a Full-Stack dev based in Montreal looking for new challenges
-- ReactJS
+What I like / enjoy:
+- React
 - Go
 - Microservices (in Go 🙂 )
 - Kubernetes
 - Docker
+- AWS 
 
 <!--
 **jebo87/jebo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
