@@ -4,10 +4,11 @@ I'm a Full-Stack dev based in Montreal looking for new challenges
 What I like / enjoy:
 - React
 - Go
+- iOS
 - Microservices (in Go 🙂 )
 - Kubernetes
 - Docker
-- AWS 
+
 
 <!--
 **jebo87/jebo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
