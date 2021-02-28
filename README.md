@@ -4,7 +4,6 @@ I'm a Full-Stack dev based in Montreal looking for new challenges
 What I like / enjoy:
 - React
 - Go
-- iOS
 - Microservices (in Go 🙂 )
 - Kubernetes
 - Docker
