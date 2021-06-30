@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full-Stack dev based in Montreal
+I'm a Full-Stack dev in Montreal
 
 What I like / enjoy:
 - React
